@@ -17,21 +17,21 @@ The first credentialed scan is where we can really start having an insight into 
 
 <h2>Remediation 1 Outdated software</h2>
 
-<br>Vulnerabilities: 33</br>
-<br>Severity: 5.00</br>
-<br>CVEs: 2</br>
+<br>Vulnerabilities: 56</br>
+<br>Severity: 7.8</br>
+<br>CVEs: 4</br>
 
 <h2>Remediation 2 OS updates</h2>
 
-<br>Vulnerabilities: 33</br>
+<br>Vulnerabilities: 52</br>
 <br>Severity: 5.00</br>
 <br>CVEs: 2</br>
 
 <h2>Remediation 3 Remainder</h2>
 
-<br>Vulnerabilities: 33</br>
-<br>Severity: 5.00</br>
-<br>CVEs: 2</br>
+<br>Vulnerabilities: 37</br>
+<br>Severity: 0(Log)</br>
+<br>CVEs: 0</br>
 
 <h2>Scan Results</h2>
 <b>Overview of scan results</b>
